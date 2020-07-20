@@ -1,0 +1,6 @@
+Bagaimana cara install laravel yaitu:
+
+Masuk Command Prompt untuk melihat apakah composer sudah terinstall atau belum jika sudah terinstall selanjutnya, adalah
+buka xampp kemudian start atau run mySql dan Apache setelah itu hubungkan koneksi dengan internet kemudian cari direktori file server yaitu cd \xampp\htdocs  
+mulai proses instalasi Laravel dengan menggunakan perintah composer create-project --prefer-dist laravel/laravel meLaravel jika sudah selesai
+Cek instalasi Laravel di web browser 
